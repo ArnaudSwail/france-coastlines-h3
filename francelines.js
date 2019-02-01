@@ -44,7 +44,7 @@ function readFile( inputPath, outputPath )
       console.log("Line", wkt );
 			if( wkt != 'WKT' )
 			{
-				wkt = wkt.replace(/['"]+/g, '');
+        wkt = wkt.replace(/['"]+/g, '');
         processWKT( wkt, output, set );
 			}
     })
