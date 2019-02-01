@@ -24,7 +24,7 @@ Le fichier généré par ce script NodeJS contient par ligne:
 La librairie h3-js est requise.
 ````
 npm install h3-js
-```
+````
 
 Pour détecter la ligne de côte depuis une position:
 ````
