@@ -3,7 +3,7 @@
 Méthode pour contruire un index h3 pour le calcul de la distance à la ligne de côte.
 
 Le fichier .csv contient les données d'entrée extraites depuis les données OpenStreetMap:
-- [Fichier SHP des lignes de côte](OpenStreetMapData](http://openstreetmapdata.com/data/coastlines)
+- [Fichier SHP des lignes de côte OpenStreetMapData](http://openstreetmapdata.com/data/coastlines)
 
 QGIS est utilisé pour:
 - sélectionner les zones à tester (France Métropolitaine dans l'exemple);
